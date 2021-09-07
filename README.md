@@ -1,4 +1,4 @@
-# lstm_stock_market_prediction
+# Stocks prediction using LSTM
 Statements
 
 - Between training and validation samples need to be 1 year gap
